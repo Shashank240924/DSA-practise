@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Shashank240924/DSA-practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shashank240924/DSA-practise/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank240924/DSA-practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Shashank240924/DSA-practise/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -85,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shashank240924/DSA-practise/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
