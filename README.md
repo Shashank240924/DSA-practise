@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shashank240924/DSA-practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shashank240924/DSA-practise/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Shashank240924/DSA-practise/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Shashank240924/DSA-practise/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank240924/DSA-practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shashank240924/DSA-practise/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Shashank240924/DSA-practise/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shashank240924/DSA-practise/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shashank240924/DSA-practise/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
