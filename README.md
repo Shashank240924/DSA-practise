@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shashank240924/DSA-practise/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shashank240924/DSA-practise/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Shashank240924/DSA-practise/tree/master/0912-sort-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shashank240924/DSA-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shashank240924/DSA-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
 |  |
