@@ -72,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shashank240924/DSA-practise/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shashank240924/DSA-practise/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shashank240924/DSA-practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Shashank240924/DSA-practise/tree/master/0070-climbing-stairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shashank240924/DSA-practise/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank240924/DSA-practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shashank240924/DSA-practise/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shashank240924/DSA-practise/tree/master/0058-length-of-last-word) |
