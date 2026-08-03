@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shashank240924/DSA-practise/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Shashank240924/DSA-practise/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shashank240924/DSA-practise/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shashank240924/DSA-practise/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shashank240924/DSA-practise/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
