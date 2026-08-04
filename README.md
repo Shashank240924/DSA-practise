@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shashank240924/DSA-practise/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Shashank240924/DSA-practise/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shashank240924/DSA-practise/tree/master/0169-majority-element) |
+| [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Shashank240924/DSA-practise/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shashank240924/DSA-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shashank240924/DSA-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Shashank240924/DSA-practise/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Shashank240924/DSA-practise/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank240924/DSA-practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shashank240924/DSA-practise/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Shashank240924/DSA-practise/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -140,8 +143,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shashank240924/DSA-practise/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
