@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shashank240924/DSA-practise/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shashank240924/DSA-practise/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/Shashank240924/DSA-practise/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Shashank240924/DSA-practise/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shashank240924/DSA-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shashank240924/DSA-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashank240924/DSA-practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Shashank240924/DSA-practise/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Shashank240924/DSA-practise/tree/master/0162-find-peak-element) |
+| [0888-fair-candy-swap](https://github.com/Shashank240924/DSA-practise/tree/master/0888-fair-candy-swap) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shashank240924/DSA-practise/tree/master/0169-majority-element) |
+| [0888-fair-candy-swap](https://github.com/Shashank240924/DSA-practise/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Shashank240924/DSA-practise/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shashank240924/DSA-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank240924/DSA-practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Shashank240924/DSA-practise/tree/master/0169-majority-element) |
+| [0888-fair-candy-swap](https://github.com/Shashank240924/DSA-practise/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
