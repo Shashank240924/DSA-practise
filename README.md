@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank240924/DSA-practise/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/Shashank240924/DSA-practise/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shashank240924/DSA-practise/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/Shashank240924/DSA-practise/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shashank240924/DSA-practise/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Shashank240924/DSA-practise/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Shashank240924/DSA-practise/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shashank240924/DSA-practise/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
 ## Minimax
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shashank240924/DSA-practise/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
