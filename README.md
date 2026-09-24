@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shashank240924/DSA-practise/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Shashank240924/DSA-practise/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shashank240924/DSA-practise/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Shashank240924/DSA-practise/tree/master/0198-house-robber) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shashank240924/DSA-practise/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Shashank240924/DSA-practise/tree/master/0888-fair-candy-swap) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Shashank240924/DSA-practise/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Shashank240924/DSA-practise/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Shashank240924/DSA-practise/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Shashank240924/DSA-practise/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Shashank240924/DSA-practise/tree/master/0877-stone-game) |
 ## Stack
