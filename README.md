@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shashank240924/DSA-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shashank240924/DSA-practise/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Shashank240924/DSA-practise/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Shashank240924/DSA-practise/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Shashank240924/DSA-practise/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Shashank240924/DSA-practise/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank240924/DSA-practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shashank240924/DSA-practise/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shashank240924/DSA-practise/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Shashank240924/DSA-practise/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shashank240924/DSA-practise/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shashank240924/DSA-practise/tree/master/0412-fizz-buzz) |
 ## Number Theory
